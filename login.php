@@ -1,4 +1,5 @@
 <?php
+//askjhdasjhdjhasd
 require_once 'config.php';
 
 // Redirect if already logged in
